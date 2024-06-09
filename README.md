@@ -157,32 +157,8 @@ Cette configuration est prévue pour une base de données MongoDb  :
 BDD MySQL 🚧 :
 Cette configuration est prévue pour une base de données MySQL (en cours de développement) :
 
-// ```plaintext
-//   MYSQL_USER = "YOUR_MYSQL_USER"
-//   MYSQL_PASSWORD = "YOUR_MYSQL_PASSWORD"
-//   MYSQL_HOST = "YOUR_MYSQL_HOST"
-//   MYSQL_DATABASE = "YOUR_MYSQL_DATABASE"
-//   Port = YOUR_PORT
-//   NODE_ENV = "development"
-//   JWT_SECRET = "YOUR_JWT_SECRET"
-//   REFRESH_TOKEN_SECRET = "YOUR_REFRESH_TOKEN_SECRET"
-//   CLIENT_URL = "http://localhost:YOUR_CLIENT_PORT"
-// ````
-
 BDD PostgreSQL 🚧 :
 Cette configuration est prévue pour une base de données PostgreSQL (en cours de développement) :
-
-// ```plaintext
-//   POSTGRES_USER = "YOUR_POSTGRES_USER"
-//   POSTGRES_PASSWORD = "YOUR_POSTGRES_PASSWORD"
-//   POSTGRES_HOST = "YOUR_POSTGRES_HOST"
-//   POSTGRES_DATABASE = "YOUR_POSTGRES_DATABASE"
-//   Port = YOUR_PORT
-//   NODE_ENV = "development"
-//   JWT_SECRET = "YOUR_JWT_SECRET"
-//   REFRESH_TOKEN_SECRET = "YOUR_REFRESH_TOKEN_SECRET"
-//   CLIENT_URL = "http://localhost:YOUR_CLIENT_PORT"
-// ````
 
 
 ## Lancement du Projet
@@ -354,32 +330,10 @@ This configuration is intended for a MongoDb database:
 MySQL Database 🚧 :
 This configuration is intended for a MySQL database (under development):
 
-// ```plaintext
-//   MYSQL_USER = "YOUR_MYSQL_USER"
-//   MYSQL_PASSWORD = "YOUR_MYSQL_PASSWORD"
-//   MYSQL_HOST = "YOUR_MYSQL_HOST"
-//   MYSQL_DATABASE = "YOUR_MYSQL_DATABASE"
-//   Port = YOUR_PORT
-//   NODE_ENV = "development"
-//   JWT_SECRET = "YOUR_JWT_SECRET"
-//   REFRESH_TOKEN_SECRET = "YOUR_REFRESH_TOKEN_SECRET"
-//   CLIENT_URL = "http://localhost:YOUR_CLIENT_PORT"
-// ````
-
 PostgreSQL Database 🚧 :
 This configuration is intended for a PostgreSQL database (under development):
 
-// ```plaintext
-//   POSTGRES_USER = "YOUR_POSTGRES_USER"
-//   POSTGRES_PASSWORD = "YOUR_POSTGRES_PASSWORD"
-//   POSTGRES_HOST = "YOUR_POSTGRES_HOST"
-//   POSTGRES_DATABASE = "YOUR_POSTGRES_DATABASE"
-//   Port = YOUR_PORT
-//   NODE_ENV = "development"
-//   JWT_SECRET = "YOUR_JWT_SECRET"
-//   REFRESH_TOKEN_SECRET = "YOUR_REFRESH_TOKEN_SECRET"
-//   CLIENT_URL = "http://localhost:YOUR_CLIENT_PORT"
-// ````
+
 ## Project Launch
 
 To use the HarmonyStack API, follow these simple steps:
